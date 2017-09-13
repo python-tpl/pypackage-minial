@@ -7,7 +7,7 @@
 Pull this template to your local machine:
 
 ```
-tpl pull pypackage-minial
+> tpl pull pypackage-minial
 
 ```
 
@@ -33,3 +33,4 @@ If you don't want to write rendered files to disk, you can specify echo mode:
 ### License
 
 MIT License
+
