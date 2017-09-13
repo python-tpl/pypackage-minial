@@ -1,4 +1,4 @@
-
+{% raw %}
 #!/bin/zsh
 PROJECT=$(pwd | awk -F '/' '{{print $NF}}')
 
@@ -80,3 +80,4 @@ case $1 in
 	printf "%-10s %-30s\n" install "run install according to setup.py" 
 	;;
 esac
+{% endraw %}
