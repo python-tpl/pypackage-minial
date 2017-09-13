@@ -1,0 +1,7 @@
+pytext
+bpython
+six
+isort
+pycodestyle
+pytest
+pipreqs
